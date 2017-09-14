@@ -8,5 +8,6 @@
 
 Book.create!([
   { name: '11.23/63' },
-  { name: 'Eating the Dinosaur' }
+  { name: 'Eating the Dinosaur' },
+  { name: 'IT' }
 ])
